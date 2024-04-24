@@ -1,0 +1,863 @@
+[
+	{
+		"item_id":"8K95FDBL",
+        "item_name": "Striped T-shirt",
+		"category": "T-shirt",
+		"color": "Blue",
+		"size": "M",
+		"description": "Comfortable cotton t-shirt with navy blue and white stripes.",
+		"brand": "Puma",
+		"ideal_for": "Men",
+		"offer_price": "999",
+		"image_path": "/images/striped_tshirt.jpg",
+		"dimensions": {
+			"length": "28 inches",
+			"width": "20 inches",
+			"height": "0.5 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.5,
+			"num_reviews": 35
+		}
+	},
+	{
+		"item_id":"8K95FDQR",
+		"item_name": "Denim Jeans",
+		"category": "Jeans",
+		"color": "Blue",
+		"size": "L",
+		"description": "Classic denim jeans with a straight fit.",
+		"brand": "Levi's",
+		"ideal_for": "Men",
+		"offer_price": "1999",
+		"image_path": "/images/denim_jeans.jpg",
+		"dimensions": {
+			"length": "40 inches",
+			"width": "32 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.2,
+			"num_reviews": 28
+		}
+	},
+	{
+		"item_id":"ABC5FDBL",
+		"item_name": "Floral Sundress",
+		"category": "Dress",
+		"color": "Pink",
+		"size": "S",
+		"description": "Flowy sundress with a floral pattern and adjustable spaghetti straps.",
+		"brand": "Biba",
+		"ideal_for": "Women",
+		"offer_price": "2999",
+		"image_path": "/images/floral_sundress.jpg",
+		"dimensions": {
+			"length": "36 inches",
+			"width": "28 inches",
+			"height": "2 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.7,
+			"num_reviews": 42
+		}
+	},
+	{
+		"item_id":"8K9PQRBL",
+        "item_name": "Leather Jacket",
+		"category": "Jacket",
+		"color": "Black",
+		"size": "L",
+		"description": "Timeless black leather jacket with zippered pockets.",
+		"brand": "Allen Solly",
+		"ideal_for": "Men",
+		"offer_price": "4999",
+		"image_path": "/images/leather_jacket.jpg",
+		"dimensions": {
+			"length": "28 inches",
+			"width": "24 inches",
+			"height": "1.5 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.8,
+			"num_reviews": 50
+		}
+	},
+	{
+		"item_id":"8K43FDBL",
+		"item_name": "Running Shoes",
+		"category": "Shoes",
+		"color": "Gray",
+		"size": "9",
+		"description": "Lightweight running shoes with cushioned soles.",
+		"brand": "Nike",
+		"ideal_for": "Unisex",
+		"offer_price": "3499",
+		"image_path": "/images/running_shoes.jpg",
+		"dimensions": {
+			"length": "12 inches",
+			"width": "4 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.3,
+			"num_reviews": 30
+		}
+	},
+	{
+		"item_id":"H6N57J8B",
+		"item_name": "Plaid Shirt",
+		"category": "Shirt",
+		"color": "Red",
+		"size": "XL",
+		"description": "Casual plaid shirt in red, black, and white.",
+		"brand": "Mufti",
+		"ideal_for": "Men",
+		"offer_price": "1599",
+		"image_path": "/images/plaid_shirt.jpg",
+		"dimensions": {
+			"length": "32 inches",
+			"width": "26 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.6,
+			"num_reviews": 38
+		}
+	},
+	{
+		"item_id":"H6N57J87",
+		"item_name": "Midi Skirt",
+		"category": "Skirt",
+		"color": "Green",
+		"size": "M",
+		"description": "Knee-length skirt in emerald green with a flared silhouette.",
+		"brand": "W",
+		"ideal_for": "Women",
+		"offer_price": "2199",
+		"image_path": "/images/midi_skirt.jpg",
+		"dimensions": {
+			"length": "24 inches",
+			"width": "28 inches",
+			"height": "2 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.4,
+			"num_reviews": 33
+		}
+	},
+	{
+		"item_id":"HMN57J8B",
+		"item_name": "Hooded Sweatshirt",
+		"category": "Sweatshirt",
+		"color": "Gray",
+		"size": "L",
+		"description": "Cozy hooded sweatshirt with a front pocket.",
+		"brand": "Adidas",
+		"ideal_for": "Unisex",
+		"offer_price": "2599",
+		"image_path": "/images/hooded_sweatshirt.jpg",
+		"dimensions": {
+			"length": "30 inches",
+			"width": "24 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.7,
+			"num_reviews": 45
+		}
+	},
+	{
+		"item_id":"PQN57J8B",
+		"item_name": "Silver Watch",
+		"category": "Watches",
+		"color": "Silver",
+		"size": "One Size",
+		"description": "Elegant silver watch with a stainless steel strap.",
+		"brand": "Titan",
+		"ideal_for": "Unisex",
+		"offer_price": "7999",
+		"image_path": "/images/silver_watch.jpg",
+		"dimensions": {
+			"length": "10 inches",
+			"width": "1 inch",
+			"height": "0.3 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.5,
+			"num_reviews": 25
+		}
+	},
+	{
+		"item_id":"H6DU7J8B",
+		"item_name": "Gold Necklace",
+		"category": "Jewelry",
+		"color": "Gold",
+		"size": "One Size",
+		"description": "Stunning gold necklace with intricate design.",
+		"brand": "Tanishq",
+		"ideal_for": "Women",
+		"offer_price": "19999",
+		"image_path": "/images/gold_necklace.jpg",
+		"dimensions": {
+			"length": "18 inches",
+			"width": "0.5 inches",
+			"height": "0.2 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.8,
+			"num_reviews": 30
+		}
+	},
+	{
+		"item_id":"H6FU7J8B",
+		"item_name": "Blue Scarf",
+		"category": "Scarves",
+		"color": "Blue",
+		"size": "One Size",
+		"description": "Soft and cozy blue scarf for a stylish look.",
+		"brand": "Fabindia",
+		"ideal_for": "Unisex",
+		"offer_price": "499",
+		"image_path": "/images/blue_scarf.jpg",
+		"dimensions": {
+			"length": "60 inches",
+			"width": "12 inches",
+			"height": "0.1 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.3,
+			"num_reviews": 20
+		}
+	},
+	{
+		"item_id":"H6NLMJ8B",
+		"item_name": "Checked Shirt",
+		"category": "Shirt",
+		"color": "Red",
+		"size": "L",
+		"description": "Casual checked shirt in red and black.",
+		"brand": "Van Heusen",
+		"ideal_for": "Men",
+		"offer_price": "1899",
+		"image_path": "/images/checked_shirt.jpg",
+		"dimensions": {
+			"length": "32 inches",
+			"width": "28 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.6,
+			"num_reviews": 38
+		}
+	},
+	{
+		"item_id":"P2R4Q9JL",
+		"item_name": "Striped Button-down Shirt",
+		"category": "Shirt",
+		"color": "Blue",
+		"size": "M",
+		"description": "Classic striped button-down shirt in blue and white.",
+		"brand": "Arrow",
+		"ideal_for": "Men",
+		"offer_price": "1499",
+		"image_path": "/images/striped_button_down_shirt.jpg",
+		"dimensions": {
+			"length": "30 inches",
+			"width": "26 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.4,
+			"num_reviews": 33
+		}
+	},
+	{
+		"item_id":"P2R4UUJL",
+		"item_name": "Floral Print Shirt",
+		"category": "Shirt",
+		"color": "Yellow",
+		"size": "XL",
+		"description": "Stylish floral print shirt in shades of yellow.",
+		"brand": "Peter England",
+		"ideal_for": "Men",
+		"offer_price": "2299",
+		"image_path": "/images/floral_print_shirt.jpg",
+		"dimensions": {
+			"length": "34 inches",
+			"width": "30 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.7,
+			"num_reviews": 45
+		}
+	},
+	{
+		"item_id":"PQR4Q9JL",
+		"item_name": "White Linen Shirt",
+		"category": "Shirt",
+		"color": "White",
+		"size": "M",
+		"description": "Cool and comfortable white linen shirt for summer.",
+		"brand": "Louis Philippe",
+		"ideal_for": "Men",
+		"offer_price": "2699",
+		"image_path": "/images/white_linen_shirt.jpg",
+		"dimensions": {
+			"length": "32 inches",
+			"width": "28 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.8,
+			"num_reviews": 50
+		}
+	},
+	{
+		"item_id":"MNR4Q9JL",
+		"item_name": "Polka Dot Shirt",
+		"category": "Shirt",
+		"color": "Navy Blue",
+		"size": "L",
+		"description": "Chic navy blue shirt with white polka dots.",
+		"brand": "Tommy Hilfiger",
+		"ideal_for": "Men",
+		"offer_price": "2999",
+		"image_path": "/images/polka_dot_shirt.jpg",
+		"dimensions": {
+			"length": "32 inches",
+			"width": "28 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.5,
+			"num_reviews": 25
+		}
+	},
+	{
+		"item_id":"P2R4X1JL",
+		"item_name": "Baseball Cap",
+		"category": "Cap",
+		"color": "Black",
+		"size": "One Size",
+		"description": "Classic black baseball cap with adjustable strap.",
+		"brand": "New Era",
+		"ideal_for": "Unisex",
+		"offer_price": "899",
+		"image_path": "/images/baseball_cap_black.jpg",
+		"dimensions": {
+			"length": "10 inches",
+			"width": "8 inches",
+			"height": "4 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.3,
+			"num_reviews": 20
+		}
+	},
+	{
+		"item_id":"TYR4Q9JL",
+        "item_name": "Beanie",
+		"category": "Hat",
+		"color": "Gray",
+		"size": "One Size",
+		"description": "Cozy gray beanie for cold weather.",
+		"brand": "Adidas",
+		"ideal_for": "Unisex",
+		"offer_price": "699",
+		"image_path": "/images/beanie_gray.jpg",
+		"dimensions": {
+			"length": "8 inches",
+			"width": "8 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.5,
+			"num_reviews": 15
+		}
+	},
+	{
+		"item_id":"P2KLQ9JL",
+		"item_name": "Sun Hat",
+		"category": "Hat",
+		"color": "Beige",
+		"size": "One Size",
+		"description": "Stylish beige sun hat with wide brim.",
+		"brand": "Tommy Bahama",
+		"ideal_for": "Women",
+		"offer_price": "1299",
+		"image_path": "/images/sun_hat_beige.jpg",
+		"dimensions": {
+			"length": "14 inches",
+			"width": "14 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.7,
+			"num_reviews": 30
+		}
+	},
+	{
+        "item_id":"S63T2D7R",
+        "item_name": "Trucker Cap",
+		"category": "Cap",
+		"color": "Blue",
+		"size": "One Size",
+		"description": "Cool blue trucker cap with mesh back.",
+		"brand": "Billabong",
+		"ideal_for": "Unisex",
+		"offer_price": "999",
+		"image_path": "/images/trucker_cap_blue.jpg",
+		"dimensions": {
+			"length": "10 inches",
+			"width": "8 inches",
+			"height": "4 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.4,
+			"num_reviews": 25
+		}
+	},
+	{
+        "item_id":"S63T2D33",
+		"item_name": "Straw Hat",
+		"category": "Hat",
+		"color": "Natural",
+		"size": "One Size",
+		"description": "Classic natural straw hat for summer.",
+		"brand": "Roxy",
+		"ideal_for": "Women",
+		"offer_price": "799",
+		"image_path": "/images/straw_hat_natural.jpg",
+		"dimensions": {
+			"length": "12 inches",
+			"width": "12 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.6,
+			"num_reviews": 18
+		}
+	},
+	{
+        "item_id":"YY3T2D7R",
+		"item_name": "Baseball Cap",
+		"category": "Cap",
+		"color": "Black",
+		"size": "One Size",
+		"description": "Classic black baseball cap with adjustable strap.",
+		"brand": "New Era",
+		"ideal_for": "Unisex",
+		"offer_price": "899",
+		"image_path": "/images/baseball_cap_black.jpg",
+		"dimensions": {
+			"length": "10 inches",
+			"width": "8 inches",
+			"height": "4 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.3,
+			"num_reviews": 20
+		}
+	},
+	{
+        "item_id":"SDDT2D7R",
+		"item_name": "Beanie",
+		"category": "Hat",
+		"color": "Gray",
+		"size": "One Size",
+		"description": "Cozy gray beanie for cold weather.",
+		"brand": "Adidas",
+		"ideal_for": "Unisex",
+		"offer_price": "699",
+		"image_path": "/images/beanie_gray.jpg",
+		"dimensions": {
+			"length": "8 inches",
+			"width": "8 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.5,
+			"num_reviews": 15
+		}
+	},
+	{
+        "item_id":"S1112D7R",
+		"item_name": "Sun Hat",
+		"category": "Hat",
+		"color": "Beige",
+		"size": "One Size",
+		"description": "Stylish beige sun hat with wide brim.",
+		"brand": "Tommy Bahama",
+		"ideal_for": "Women",
+		"offer_price": "1299",
+		"image_path": "/images/sun_hat_beige.jpg",
+		"dimensions": {
+			"length": "14 inches",
+			"width": "14 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.7,
+			"num_reviews": 30
+		}
+	},
+	{
+        "item_id":"A63T2D7R",
+		"item_name": "Trucker Cap",
+		"category": "Cap",
+		"color": "Blue",
+		"size": "One Size",
+		"description": "Cool blue trucker cap with mesh back.",
+		"brand": "Billabong",
+		"ideal_for": "Unisex",
+		"offer_price": "999",
+		"image_path": "/images/trucker_cap_blue.jpg",
+		"dimensions": {
+			"length": "10 inches",
+			"width": "8 inches",
+			"height": "4 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.4,
+			"num_reviews": 25
+		}
+	},
+	{
+        "item_id":"B63T2D7R",
+		"item_name": "Straw Hat",
+		"category": "Hat",
+		"color": "Natural",
+		"size": "One Size",
+		"description": "Classic natural straw hat for summer.",
+		"brand": "Roxy",
+		"ideal_for": "Women",
+		"offer_price": "799",
+		"image_path": "/images/straw_hat_natural.jpg",
+		"dimensions": {
+			"length": "12 inches",
+			"width": "12 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.6,
+			"num_reviews": 18
+		}
+	},
+	{
+        "item_id":"C63T2D7R",
+		"item_name": "Cargo Pants",
+		"category": "Pants",
+		"color": "Olive Green",
+		"size": "32x34",
+		"description": "Stylish olive green cargo pants with multiple pockets.",
+		"brand": "Gap",
+		"ideal_for": "Men",
+		"offer_price": "2499",
+		"image_path": "/images/cargo_pants_olive_green.jpg",
+		"dimensions": {
+			"length": "42 inches",
+			"width": "34 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.6,
+			"num_reviews": 38
+		}
+	},
+	{
+        "item_id":"D63T2D7R",
+		"item_name": "Slim Fit Chinos",
+		"category": "Pants",
+		"color": "Navy Blue",
+		"size": "30x32",
+		"description": "Classic navy blue slim fit chinos for a smart casual look.",
+		"brand": "Dockers",
+		"ideal_for": "Men",
+		"offer_price": "1999",
+		"image_path": "/images/slim_fit_chinos_navy_blue.jpg",
+		"dimensions": {
+			"length": "40 inches",
+			"width": "32 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.4,
+			"num_reviews": 33
+		}
+	},
+	{
+        "item_id":"E63T2D7R",
+		"item_name": "High Waisted Trousers",
+		"category": "Pants",
+		"color": "Black",
+		"size": "M",
+		"description": "Elegant black high waisted trousers for a polished look.",
+		"brand": "Zara",
+		"ideal_for": "Women",
+		"offer_price": "2999",
+		"image_path": "/images/high_waisted_trousers_black.jpg",
+		"dimensions": {
+			"length": "38 inches",
+			"width": "28 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.7,
+			"num_reviews": 45
+		}
+	},
+	{
+        "item_id":"F63T2D7R",
+		"item_name": "Cropped Pants",
+		"category": "Pants",
+		"color": "Beige",
+		"size": "S",
+		"description": "Trendy beige cropped pants for a chic look.",
+		"brand": "H&M",
+		"ideal_for": "Women",
+		"offer_price": "1499",
+		"image_path": "/images/cropped_pants_beige.jpg",
+		"dimensions": {
+			"length": "32 inches",
+			"width": "26 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.8,
+			"num_reviews": 50
+		}
+	},
+	{
+        "item_id":"G63T2D7R",
+		"item_name": "Wide Leg Jeans",
+		"category": "Pants",
+		"color": "Light Blue",
+		"size": "28x30",
+		"description": "Fashionable light blue wide leg jeans for a retro vibe.",
+		"brand": "ASOS",
+		"ideal_for": "Women",
+		"offer_price": "1999",
+		"image_path": "/images/wide_leg_jeans_light_blue.jpg",
+		"dimensions": {
+			"length": "38 inches",
+			"width": "30 inches",
+			"height": "1 inch"
+		},
+		"customer_review": {
+			"average_rating": 4.5,
+			"num_reviews": 25
+		}
+	},
+	{
+        "item_id":"H63T2D7R",
+		"item_name": "Canvas Sneakers",
+		"category": "Shoes",
+		"color": "White",
+		"size": "9",
+		"description": "Classic white canvas sneakers for a casual look.",
+		"brand": "Converse",
+		"ideal_for": "Unisex",
+		"offer_price": "2999",
+		"image_path": "/images/canvas_sneakers_white.jpg",
+		"dimensions": {
+			"length": "12 inches",
+			"width": "4 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.6,
+			"num_reviews": 38
+		}
+	},
+	{
+        "item_id":"I63T2D7R",
+		"item_name": "Leather Loafers",
+		"category": "Shoes",
+		"color": "Brown",
+		"size": "10",
+		"description": "Stylish brown leather loafers for a sophisticated look.",
+		"brand": "Cole Haan",
+		"ideal_for": "Men",
+		"offer_price": "4999",
+		"image_path": "/images/leather_loafers_brown.jpg",
+		"dimensions": {
+			"length": "12 inches",
+			"width": "4 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.4,
+			"num_reviews": 33
+		}
+	},
+	{
+        "item_id":"K63T2D7R",
+		"item_name": "Strappy Sandals",
+		"category": "Sandals",
+		"color": "Black",
+		"size": "8",
+		"description": "Chic black strappy sandals for a trendy look.",
+		"brand": "Steve Madden",
+		"ideal_for": "Women",
+		"offer_price": "3499",
+		"image_path": "/images/strappy_sandals_black.jpg",
+		"dimensions": {
+			"length": "10 inches",
+			"width": "4 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.7,
+			"num_reviews": 45
+		}
+	},
+	{
+        "item_id":"L63T2D7R",
+		"item_name": "Running Sneakers",
+		"category": "Shoes",
+		"color": "Blue",
+		"size": "7",
+		"description": "Comfortable blue running sneakers with cushioned soles.",
+		"brand": "Under Armour",
+		"ideal_for": "Women",
+		"offer_price": "3999",
+		"image_path": "/images/running_sneakers_blue.jpg",
+		"dimensions": {
+			"length": "12 inches",
+			"width": "4 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.8,
+			"num_reviews": 50
+		}
+	},
+	{
+        "item_id":"M63T2D7R",
+		"item_name": "Platform Sandals",
+		"category": "Sandals",
+		"color": "Tan",
+		"size": "9",
+		"description": "Fashionable tan platform sandals for a trendy look.",
+		"brand": "Sam Edelman",
+		"ideal_for": "Women",
+		"offer_price": "4599",
+		"image_path": "/images/platform_sandals_tan.jpg",
+		"dimensions": {
+			"length": "10 inches",
+			"width": "4 inches",
+			"height": "6 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.5,
+			"num_reviews": 25
+		}
+	},
+	{
+        "item_id":"N63T2D7R",
+		"item_name": "Leather Bracelet",
+		"category": "Wrist Band",
+		"color": "Brown",
+		"size": "One Size",
+		"description": "Stylish brown leather bracelet for a rugged look.",
+		"brand": "Fossil",
+		"ideal_for": "Unisex",
+		"offer_price": "799",
+		"image_path": "/images/leather_bracelet_brown.jpg",
+		"dimensions": {
+			"length": "8 inches",
+			"width": "0.5 inches",
+			"height": "0.1 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.3,
+			"num_reviews": 20
+		}
+	},
+	{
+        "item_id":"O63T2D7R",
+		"item_name": "Digital Watch",
+		"category": "Watches",
+		"color": "Black",
+		"size": "One Size",
+		"description": "Sleek black digital watch with multiple features.",
+		"brand": "Casio",
+		"ideal_for": "Unisex",
+		"offer_price": "2999",
+		"image_path": "/images/digital_watch_black.jpg",
+		"dimensions": {
+			"length": "10 inches",
+			"width": "1 inch",
+			"height": "0.3 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.5,
+			"num_reviews": 15
+		}
+	},
+	{
+        "item_id":"Q63T2D7R",
+		"item_name": "Diamond Stud Earrings",
+		"category": "Jewelry",
+		"color": "Silver",
+		"size": "One Size",
+		"description": "Elegant silver stud earrings with sparkling diamonds.",
+		"brand": "Tiffany & Co.",
+		"ideal_for": "Women",
+		"offer_price": "19999",
+		"image_path": "/images/diamond_stud_earrings_silver.jpg",
+		"dimensions": {
+			"length": "0.2 inches",
+			"width": "0.2 inches",
+			"height": "0.1 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.7,
+			"num_reviews": 30
+		}
+	},
+	{
+        "item_id":"R63T2D7R",
+		"item_name": "Pearl Necklace",
+		"category": "Jewelry",
+		"color": "White",
+		"size": "One Size",
+		"description": "Classic white pearl necklace for a timeless look.",
+		"brand": "Mikimoto",
+		"ideal_for": "Women",
+		"offer_price": "9999",
+		"image_path": "/images/pearl_necklace_white.jpg",
+		"dimensions": {
+			"length": "18 inches",
+			"width": "0.2 inches",
+			"height": "0.2 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.8,
+			"num_reviews": 40
+		}
+	},
+	{
+        "item_id":"JKIT2D7R",
+		"item_name": "Smart Fitness Band",
+		"category": "Wrist Band",
+		"color": "Black",
+		"size": "One Size",
+		"description": "Advanced black smart fitness band with heart rate monitor.",
+		"brand": "Fitbit",
+		"ideal_for": "Unisex",
+		"offer_price": "5999",
+		"image_path": "/images/smart_fitness_band_black.jpg",
+		"dimensions": {
+			"length": "8 inches",
+			"width": "0.8 inches",
+			"height": "0.3 inches"
+		},
+		"customer_review": {
+			"average_rating": 4.6,
+			"num_reviews": 25
+		}
+	}
+]
